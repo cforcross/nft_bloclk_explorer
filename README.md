@@ -1,4 +1,4 @@
-# Deploying NFT to OpenSea with Truffle
+# Deploying NFT to OpenSea with HardHat
 -Using OpenZeppeling
 ## Type
 - More in manual Category **
